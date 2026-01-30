@@ -1,7 +1,0 @@
-C:\Desktop\cse445\cse445assn1\cse445assn1\obj\Debug\cse445assn1.csproj.AssemblyReference.cache
-C:\Desktop\cse445\cse445assn1\cse445assn1\obj\Debug\cse445assn1.csproj.CoreCompileInputs.cache
-C:\Desktop\cse445\cse445assn1\cse445assn1\bin\cse445assn1.dll.config
-C:\Desktop\cse445\cse445assn1\cse445assn1\bin\cse445assn1.dll
-C:\Desktop\cse445\cse445assn1\cse445assn1\bin\cse445assn1.pdb
-C:\Desktop\cse445\cse445assn1\cse445assn1\obj\Debug\cse445assn1.dll
-C:\Desktop\cse445\cse445assn1\cse445assn1\obj\Debug\cse445assn1.pdb
